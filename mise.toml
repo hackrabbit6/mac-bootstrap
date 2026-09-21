@@ -1,0 +1,6 @@
+[tools]
+node = "lts"
+bun = "latest"
+go = "latest"
+rust = "stable"
+python = "latest"

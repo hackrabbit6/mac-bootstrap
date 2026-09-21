@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# 密钥、证书与本地凭据
+*.key
+*.pem
+*.p12
+*.mobileprovision
+credentials*
+secrets*
+
+# 本地临时文件
+.cache/
+tmp/
